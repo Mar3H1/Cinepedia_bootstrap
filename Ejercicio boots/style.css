@@ -1,0 +1,27 @@
+
+h1{
+  font-family: "Playwrite NO", cursive;
+  font-optical-sizing: auto;
+ }
+
+.text-justify {
+text-align: justify !important;
+}
+
+
+
+
+.carousel-item {
+  height: 550px; /* Ejemplo de altura */
+}
+.carousel-item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover; /* O 'contain' */
+}
+
+
+.card {
+   height: 700px;
+   background-color: bisque;
+}
